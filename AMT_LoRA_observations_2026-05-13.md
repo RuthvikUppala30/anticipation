@@ -57,7 +57,7 @@ Fine-tuned on 14 duet recordings (both parts merged). Evaluated by feeding primo
 
 Looked like a clear win at first pass.
 
-### Continuation of Experiment 2 — Haoyu's suggestion: more epochs, 20s output
+### Continuation of Experiment 2 — Professor's 's suggestion: more epochs, 20s output
 
 Trained 500 epochs (later interrupted from the planned 3000-epoch run; not justified after diagnostics below). Generation switched to chunked 4 × 5s to cover 20 seconds.
 
